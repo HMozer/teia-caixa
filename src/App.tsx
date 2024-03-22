@@ -8,7 +8,6 @@ import TabPaginacao from './components/TabPaginacao';
 
 import
 { 
-  ColumnFiltersState,
     PaginationState,
     SortingState,
     createColumnHelper,
